@@ -13,7 +13,7 @@
 
     You should have received a copy of the GNU Lesser General Public License
     along with VK/KittenPHP-DB-Engine Library.  If not, see <http://www.gnu.org/licenses/>.
-
+ba
     Copyright 2009-2012 Vkontakte Ltd
               2009-2012 Nikolai Durov
               2009-2012 Andrei Lopatin
